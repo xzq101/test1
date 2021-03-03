@@ -1,4 +1,22 @@
-# Setting up
+# Setting up This app
+
+## use react
+
+npx create-react-app frontend
+
+If this command is not working, use:
+
+npm init
+
+npm install create-react-app
+
+npx create-react-app myapp
+
+## setup nginx, follow [this link](https://www.howtoing.com/how-to-install-nginx-on-ubuntu-18-04).
+
+## setup git:
+
+git config --list
 
 # Getting Started with Create React App
 
