@@ -14,6 +14,10 @@ npx create-react-app myapp
 
 ## setup nginx, follow [this link](https://www.howtoing.com/how-to-install-nginx-on-ubuntu-18-04).
 
+after build, from build folder:
+
+cp -r \* /var/www/DE/html
+
 ## setup git:
 
 git config --list
